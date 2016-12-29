@@ -64,6 +64,7 @@ public class Main {
             lists[i] = new ArrayList();
             lists[i].add(i);
             lists[i].add("a");
+            lists[i].add("b");
         }
         start = System.currentTimeMillis();
         show(lists);
