@@ -1,7 +1,6 @@
 package cn.zjnktion.json;
 
 import cn.zjnktion.json.exception.JsonParseException;
-import cn.zjnktion.json.model.JsonArray;
 import cn.zjnktion.json.model.JsonObject;
 import cn.zjnktion.json.util.Context;
 import cn.zjnktion.json.util.JSON;
